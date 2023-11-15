@@ -1,4 +1,5 @@
 {
+  "name": "live2dframework",
   "private": true,
   "scripts": {
     "build": "tsc",
